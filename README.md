@@ -1,6 +1,6 @@
 # killdj
 
-killdj is a simple tool to terminate django running-server' ports.
+killdj is a simple tool to terminate ports running by django.
 
 #### usage 
 ```bash
