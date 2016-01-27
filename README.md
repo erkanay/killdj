@@ -12,3 +12,7 @@ killdj is a simple tool to terminate ports running by django.
 ```
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/erkanay/killdj/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/erkanay/killdj/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
